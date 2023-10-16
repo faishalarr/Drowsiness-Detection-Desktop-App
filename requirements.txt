@@ -42,4 +42,4 @@ thop  # FLOPs computation
 # Additional packages for your app
 pygame
 plyer
-onnxruntime==1.14.1
+onnxruntime==1.16.1
